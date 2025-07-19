@@ -1,1 +1,1 @@
-# Linear-Regression-Boston-Housing
+# Linear-Regression-California-Housing
